@@ -17,10 +17,16 @@
     font-size: 20px;
     text-align: center;
 }
+.card-menu{
+    color: blue;
+    
+}
 .card-text{
     font-size: 14px;
     text-align: center;
 }
 .card-subtext{
     font-size: 20px;
+    text-align: center;
+    color: blue;
 }
